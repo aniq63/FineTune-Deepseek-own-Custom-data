@@ -91,14 +91,6 @@ They provide training and consulting services and have worked on large-scale pro
 
 ---
 
-## 🧠 Future Work
-
-- Add RAG (Retrieval-Augmented Generation) for dynamic answers
-- Deploy model using Gradio or FastAPI
-- Try fine-tuning with larger datasets or other domains
-
----
-
 ## 🔗 Connect with Me
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/aniq-ramzan-ai-learner/) or explore more of my work!
