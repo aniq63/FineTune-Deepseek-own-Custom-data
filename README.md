@@ -2,6 +2,10 @@
 
 This project showcases how I fine-tuned the [`deepseek-ai/deepseek-llm-7b-chat`](https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat) model using the [Unsloth](https://github.com/unslothai/unsloth) library for a domain-specific Q&A chatbot focused on Cazton's technology services.
 
+## Notebook link
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-MqBS9FAPraw2VT0xjfWvqYc13y-uR_d?usp=sharing)
+
 ---
 
 ## 🧠 Objective
